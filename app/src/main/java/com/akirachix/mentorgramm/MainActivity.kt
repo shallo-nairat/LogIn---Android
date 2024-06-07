@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     fun validateRegistration(){
         var formError=false
+        clearErrors()
         val firstName=binding.etFirstName.text.toString()
         if(firstName.isBlank()){
             formError=true
