@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MentorGramm</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="codehive_id">CodeHive Id</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_signed_up_log_in">Already signed up? Log In</string>
+</resources>
